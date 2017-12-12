@@ -1,0 +1,15 @@
+{
+  "name": "paw-link-header",
+  "version": "1.0.0",
+  "author": "Kurt Schwarz <kurt@unknwn.io>",
+  "license": {
+    "type": "MIT",
+    "url": "https://opensource.org/licenses/MIT"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.0.0-beta.34",
+    "@babel/core": "^7.0.0-beta.34",
+    "@babel/plugin-proposal-class-properties": "^7.0.0-beta.34",
+    "@babel/preset-env": "^7.0.0-beta.34"
+  }
+}
